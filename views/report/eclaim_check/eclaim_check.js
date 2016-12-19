@@ -1,7 +1,7 @@
 angular.module('myApp') 
 
-.controller('MainCtrl', function($scope,$http) {
-   console.log("Main")
+.controller('eclaimCtrl', function($scope,$http) {
+   console.log("Eclaim")
 
 
 
